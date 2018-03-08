@@ -26,7 +26,7 @@ Asst. Prof. Mengling Feng from NUS Schools of Public Health, Medicine and Comput
 No. | Section  | Links
 --- | -------- | --------
 (1) | Python   | [Dataset](python/births.csv), [Notebook](python/Python.ipynb), Solutions
-(2) | Lecture  | [Slides](lecture/WS06_Slides.pdf), [Handout](lecture/handout.md)
+(2) | Lecture  | [Slides](lecture/Slides.pdf), [Handout](lecture/handout.md)
 (3) | Sample   | [Dataset](sample/lungsample.csv), [Notebook](sample/Lung.ipynb)
 (4) | Exercise | [Dataset](exercise/leukemia.csv), [Notebook](exercise/Leukemia.ipynb), Solutions
 
